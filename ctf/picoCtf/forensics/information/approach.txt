@@ -1,0 +1,8 @@
+exiftool cat.jpg
+
+
+
+get cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 then convert it to base64
+
+
+flage => picoCTF{the_m3tadata_1s_modified}

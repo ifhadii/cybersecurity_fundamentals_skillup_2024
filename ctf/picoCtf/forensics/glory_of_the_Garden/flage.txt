@@ -1,0 +1,8 @@
+00230560: 7265 2069 7320 6120 666c 6167 2022 7069  re is a flag "pi
+00230570: 636f 4354 467b 6d6f 7265 5f74 6861 6e5f  coCTF{more_than_
+00230580: 6d33 3374 735f 7468 655f 3379 3365 4264  m33ts_the_3y3eBd
+00230590: 4264 3263 637d 220a                      Bd2cc}".
+
+
+# flag
+picoCTF{more_than_m33ts_the_3y3eBdBd2cc}
